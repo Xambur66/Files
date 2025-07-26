@@ -67,7 +67,7 @@ https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 ,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 ,CNN INTERNATIONAL
+#EXTINF:0 ,CNN US
 https://i.mjh.nz/.r/discovery-ptcn.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:0 ,CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
