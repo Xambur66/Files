@@ -9,6 +9,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 #EXTINF:0 ,Stingray Naturescape
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35969&ads.show_id=1103&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CNature%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Naturescape&ads.episodetitle=Naturescape&ads.keywords=stingray%2Cnaturescape&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:0 ,NATURESTREAM.TV
+https://dcicealhbcymw.cloudfront.net/strm/link/naturestream.m3u8
+#EXTINF:0 ,NATUREViSiON TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
+#EXTINF:0 ,ESCAPE
+https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
 #EXTINF:0 ,WiLDEARTH
 https://wildearth-lg.amagi.tv/playlist.m3u8
 #EXTINF:0 ,XPLORE
@@ -23,12 +29,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8?ads.wurl_channel=1299&ads.wurl_name=AdventureEarth&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 ,BBC EARTH
 https://live-manifest.production-public.tubi.io/live/01404def-10a0-46f6-9e01-4919814910c0/playlist.m3u8
-#EXTINF:0 ,NATURESTREAM.TV
-https://dcicealhbcymw.cloudfront.net/strm/link/naturestream.m3u8
-#EXTINF:0 ,NATUREViSiON TV
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
-#EXTINF:0 ,ESCAPE
-https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
 #EXTINF:0 ,LOVE THE PLANET
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:0 ,BRB Travel & Food
@@ -36,7 +36,7 @@ https://14f44f4f12e6439cb4761154002383ba.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 ,Autentic Travel
 https://c61b2ba70ab24f2db8ab29ca267cd6a4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-dk_AutenticTravel/playlist.m3u8
 #EXTINF:0 ,Life Down Under
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+https://77360d19fc27463bbcebed85a6aa6c00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-dk_LifeDownUnder/playlist.m3u8
 #EXTINF:0 ,FOOD NETWORK
 http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:0 ,Bon Appétit
@@ -45,11 +45,11 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23062&ads.content_duration=18000&ads.episode_id=83408&ads.show_id=3187&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel%2CFood%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Gusto%20TV&ads.episodetitle=Gusto%20TV&ads.keywords=Gusto%20TV%2CCooking%2CFood%2CCuisine&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=gusto&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:0 ,TASTEMADE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-lgus/playlist.m3u8
-#EXTINF:0 ,Air Space Channel
+#EXTINF:0 ,Air & Space
 https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
 #EXTINF:0 ,Popular Science
 https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/acTVe-powder-ono/playlist.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n4=content_name&ads.v4=Popular%20Science&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=ip&ads.v22=181.215.195.227&ads.n23=device_model&ads.v23=&ads.n24=content_producer_name&ads.v24=acTVe%20Action%20Sports%2C%20LLC&ads.n25=channel_name&ads.v25=Popular%20Science&ads.n26=content_provider&ads.v26=powder&ads.n27=channel_language&ads.v27=English&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=channel_id&ads.v32=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n33=h&ads.v33=1080&ads.n34=content_custom_3_param&ads.v34=channel&ads.n35=channel_genre&ads.v35=Documentary%2CScience&ads.n36=w&ads.v36=1920&ads.n37=device_type&ads.v37=&ads.n38=content_livestream&ads.v38=1&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=app_bundle&ads.v40=&ads.n41=did&ads.v41=&ads.n42=app_version&ads.v42=0.0.0&ads.n43=cust_devicename&ads.v43=desktop_web&ads.n44=channel_brand_id&ads.v44=AMDB013424&ads.n45=app_name&ads.v45=&ads.n46=network_name&ads.v46=powder&ads.n47=app_store_url&ads.v47=&ads.n48=channel_corp&ads.v48=acTVe%20Action%20Sports%2C%20LLC&ads.n49=dnt&ads.v49=&ads.n50=channel_ext_id&ads.v50=&ads.n51=content_custom_1_param&ads.v51=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n52=content_type&ads.v52=channel&ads.n53=device_make&ads.v53=&ads.n54=channel_title&ads.v54=Popular%20Science&ads.n55=content_custom_2_param&ads.v55=AMDB013424&ads.n56=channel_company_id&ads.v56=AMDP500526
-#EXTINF:0 ,TED
+#EXTINF:0 ,Real Wild
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 ,WELLBEiNG TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentven-tcl/playlist.m3u8
