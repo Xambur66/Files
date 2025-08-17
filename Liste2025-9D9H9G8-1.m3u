@@ -73,12 +73,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-viz
 https://d2ww7x6333b6qp.cloudfront.net/10507/9999545/hls/master.m3u8?ads.xumo_channelId=9999545&ads.caid=todayallday&ads.csid=samsungtvplus_us_todayallday_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137705821&ads.sfid=16772608&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=lifestyle&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.channelId=9999545&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=todayallday&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:0 ,REUTERS
 https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=CB785AB7-11EB-4400-92B9-521C4D9C5838&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=CB785AB7-11EB-4400-92B9-521C4D9C5838&ads.n4=content_name&ads.v4=Reuters%20Now&ads.n21=url&ads.v21=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n22=channel_id&ads.v22=CB785AB7-11EB-4400-92B9-521C4D9C5838&ads.n23=app_store_url&ads.v23=&ads.n24=channel_ext_id&ads.v24=&ads.n25=did&ads.v25=&ads.n26=cust_devicename&ads.v26=desktop_web&ads.n27=content_custom_2_param&ads.v27=AMDB013535&ads.n28=channel_title&ads.v28=Reuters%20Now&ads.n29=channel_genre&ads.v29=News%20And%20Opinion&ads.n30=w&ads.v30=1920&ads.n31=content_provider&ads.v31=reuters-now&ads.n32=app_bundle&ads.v32=&ads.n33=channel_rating&ads.v33=TV-PG&ads.n34=content_custom_1_param&ads.v34=CB785AB7-11EB-4400-92B9-521C4D9C5838&ads.n35=pos&ads.v35=midroll&ads.n36=app_version&ads.v36=0.0.0&ads.n37=network_name&ads.v37=reuters-now&ads.n38=h&ads.v38=1080&ads.n39=channel_name&ads.v39=Reuters%20Now&ads.n40=channel_company_id&ads.v40=AMDP500549&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=channel_language&ads.v42=en&ads.n43=device_type&ads.v43=&ads.n44=content_producer_name&ads.v44=Reuters%20News%20&%20Media%20INC&ads.n45=ifa_type&ads.v45=&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=app_name&ads.v47=&ads.n48=device_model&ads.v48=&ads.n49=content_type&ads.v49=channel&ads.n50=ip&ads.v50=181.215.195.227&ads.n51=dnt&ads.v51=&ads.n52=channel_corp&ads.v52=Reuters%20News%20&%20Media%20INC&ads.n53=content_livestream&ads.v53=1&ads.n54=device_make&ads.v54=&ads.n55=content_custom_3_param&ads.v55=channel&ads.n56=channel_brand_id&ads.v56=AMDB013535
+#EXTINF:0 ,THE GUARDIAN CHANNEL
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
 #EXTINF:0 ,NEWSNATION
 http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 ,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 ,CNN US
 https://i.mjh.nz/.r/discovery-ptcn.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:0 ,HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:0 ,CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,BLOOMBERG TV
@@ -95,7 +99,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 ,REAL AMERiCA'S VOiCE
 https://ca88f6e89f1b450b89e492bb1a909db6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AmericasVoice/playlist.m3u8?
-
+#EXTINF:0 ,OANN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,SCRiPPS NEWS
 https://b2b5559944b045bbaec8e4cc372056bb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ScrippsNews/playlist.m3u8
