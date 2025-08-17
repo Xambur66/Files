@@ -40,6 +40,8 @@ https://c61b2ba70ab24f2db8ab29ca267cd6a4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 ,Life Down Under
 https://77360d19fc27463bbcebed85a6aa6c00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-dk_LifeDownUnder/playlist.m3u8
 #EXTINF:0 ,GoUSA TV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:0 ,TNTV
 https://db257ce47b7c4eb88829ad36574738a5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_GoUSATV/playlist.m3u8
 #EXTINF:0 ,Go Wild
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.csid=lgchannels_[COUNTRY]_indigeniusgowild_ssai&ads.ad_tag_id=16821&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -93,6 +95,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 ,REAL AMERiCA'S VOiCE
 https://ca88f6e89f1b450b89e492bb1a909db6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AmericasVoice/playlist.m3u8?
+
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,SCRiPPS NEWS
 https://b2b5559944b045bbaec8e4cc372056bb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ScrippsNews/playlist.m3u8
 #EXTINF:-1 group-title="-----AMERİKA-----" tvg-id="Chedda" tvg-name="Cable News Network" ,CHEDDAR NEWS
