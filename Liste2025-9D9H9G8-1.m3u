@@ -101,7 +101,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 ,REAL AMERiCA'S VOiCE
 https://ca88f6e89f1b450b89e492bb1a909db6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AmericasVoice/playlist.m3u8?
-#EXTINF:0 ,OANN
+#EXTINF:0 ,OAN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,SCRiPPS NEWS
 https://b2b5559944b045bbaec8e4cc372056bb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ScrippsNews/playlist.m3u8
@@ -179,7 +179,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="-----GENEL HABER-----" tvg-id="ALJAZEeraIntl.gr" tvg-name="ATV" ,AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 ,RT NEWS
+#EXTINF:0 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 ,i24 News EN
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
