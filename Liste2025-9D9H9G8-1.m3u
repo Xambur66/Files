@@ -41,7 +41,7 @@ https://c61b2ba70ab24f2db8ab29ca267cd6a4.mediatailor.us-east-1.amazonaws.com/v1/
 https://77360d19fc27463bbcebed85a6aa6c00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-dk_LifeDownUnder/playlist.m3u8
 #EXTINF:0 ,GoUSA TV
 https://db257ce47b7c4eb88829ad36574738a5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_GoUSATV/playlist.m3u8
-#EXTINF:0 ,TNTV
+#EXTINF:0 ,TAHITI TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:0 ,Go Wild
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.csid=lgchannels_[COUNTRY]_indigeniusgowild_ssai&ads.ad_tag_id=16821&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -83,8 +83,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://i.mjh.nz/.r/discovery-ptcn.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:0 ,HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 ,MSNBC
-https://tvpass.org/live/MSNBC/hd
 #EXTINF:0 ,CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,BLOOMBERG TV
@@ -169,7 +167,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?ads.xumo_channelId=88814560&ads.xumo_streamId=88814560
 #EXTINF:0 ,GB NEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 ,RTÉ News
+#EXTINF:0 ,RTE News
 http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
 #EXTINF:0 group-title="-----GENEL HABER-----" tvg-id="euronews.al" tvg-name="Eleven Sports 1" ,EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
@@ -179,7 +177,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="-----GENEL HABER-----" tvg-id="ALJAZEeraIntl.gr" tvg-name="ATV" ,AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 ,RT
+#EXTINF:0 ,RUSSIA TODAY
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 ,i24 News EN
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
@@ -187,8 +185,6 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:0 ,ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:0 ,SBS World Watch
-http://44.32.200.212:5004/auto/v35
 #EXTINF:0 ,NEWSWORLD
 https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
 #EXTINF:0 ,LeadStory
