@@ -106,7 +106,7 @@ https://b2b5559944b045bbaec8e4cc372056bb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="-----AMERİKA-----" tvg-id="Chedda" tvg-name="Cable News Network" ,CHEDDAR NEWS
 https://2eb2684fa9c3497587d24bf19cf627cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Cheddar/playlist.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,NBC NEWS NOW
-https://live-manifest.production-public.tubi.io/live/b0db0647-74ef-4130-922a-6d0a36a5f68e/playlist.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:0 group-title="-----AMERİKA-----" tvg-id="NBC.us" tvg-name="NBC" ,NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:0 ,NBC SF BAY AREA News
@@ -185,7 +185,7 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:0 ,ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:0 ,NEWSWORLD
+#EXTINF:0 ,NEWS WORLD
 https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
 #EXTINF:0 ,LeadStory
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
