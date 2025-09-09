@@ -259,6 +259,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvnz-samsungnz/pla
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?ads_amagi_channel=837&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4372&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=c61ce8fa-4c9c-4d17-a716-ccbd2c1a643e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:0 group-title="-----SPOR-----" ,HORiZONSPORTS
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:0 ,FS1
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:0 ,ESPN2
 http://fl1.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:0 ,NBC SPORTS
