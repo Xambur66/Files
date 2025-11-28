@@ -155,14 +155,10 @@ https://tdameritrade-distro.amagi.tv/playlist.m3u8
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/format/applehttp/protocol/https/uiConfId/43914941/a.m3u8
 #EXTINF:0 ,BBC NEWS
 https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
-#EXTINF:0 ,BBC NEWS (North America)
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:0 group-title="-----GENEL HABER-----" tvg-id="SKYNEWS.il" tvg-name="SKYNEWS" ,SKY NEWS
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?ads.xumo_channelId=88814560&ads.xumo_streamId=88814560
 #EXTINF:0 ,GB NEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 ,RTENews
-http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
 #EXTINF:0 group-title="-----GENEL HABER-----" tvg-id="euronews.al" tvg-name="Eleven Sports 1" ,EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:0 ,FRANCE 24
