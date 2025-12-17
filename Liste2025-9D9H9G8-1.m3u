@@ -142,7 +142,7 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4
 #EXTINF:0 group-title="-----AMERİKA-----" ,TYT NETWORK
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" tvg-id="CBCNews.ca" tvg-name="CBC News Network HD" ,CBC NEWS
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.news.network.ca.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" tvg-id="Global.ca" tvg-name="Global Toronto HD" ,GLOBAL
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:0 ,ACCUWEATHER
@@ -166,7 +166,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="-----GENEL HABER-----" ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="-----GENEL HABER-----" tvg-id="ALJAZEeraIntl.gr" tvg-name="ATV" ,AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:0 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 ,i24News
@@ -222,7 +222,7 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" ,Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 ,NHK WORLD
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:0 ,TAIWAN+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:0 group-title="-----ASYA-----" tvg-id="CGTN.es" tvg-name="CGTN Español" parent-code="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8" ,CGTN
