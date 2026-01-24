@@ -20,7 +20,7 @@ https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
 #EXTINF:0 ,WiLDEARTH
 https://wildearth-lg.amagi.tv/playlist.m3u8
 #EXTINF:0 ,XPLORE
-https://dbrb49pjoymg4.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765&ads._fw_ifa_type=&ads._fw_did=2dbfb303-2287-4729-b5b6-9ba851ffc9dc&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LittonXplore&ads.csid=xumo_web_LittonXplore_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2593&ads.xumo_contentName=LittonXplore&ads.xumo_providerId=2593&ads.xumo_providerName=LittonXplore&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991765&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+https://jmp2.uk/rok-f230a0c3f7ba5804b42d88f5d3c20002.m3u8
 #EXTINF:0 ,DRONE TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.channel_ext_id=627bff101985ad459d0e3c22&ads.wurl_name=DroneTV&ads.device_type=&ads.content_genre=Technology&ads.device_model=&ads.content_id=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.wurl_channel=1072&ads.ifa_type=&ads.dnt=&ads.app_bundle=&ads.cust_devicename=&ads.app_store_url=&ads.content_title=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.ip=181.215.195.227&ads.did=&ads.coppa=0&ads.app_name=&ads.device_make=&ads.content_provider=drone-tv&ads.channel_corp=Air%20Vuz%20LLC&ads.channel_brand_id=AMDB012798&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.channel_company_id=AMDP500408&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 #EXTINF:0 ,LOVE NATURE
@@ -88,7 +88,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:0 group-title="-----AMERİKA-----" tvg-id="Bloomberg.us" tvg-name="Bloomberg Business Television" ,Bloomberg Originals
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 group-title="-----AMERİKA-----" tvg-id="CBS.us" tvg-name="CBS" ,CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 group-title="-----AMERİKA-----" tvg-id="ABC.us" tvg-name="ABC" ,ABC NEWS Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 ,NEWSMAX2
@@ -292,7 +292,7 @@ https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 #EXTINF:0 group-title="-----SPOR-----" ,TRACE SPORTSTARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 ,CSTAR
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:0 ,VEVO POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 #EXTINF:0 ,TRACE UK
@@ -310,7 +310,7 @@ https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 ,CLUBBiNG TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:0 ,FashionTV
-https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:0 ,Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
