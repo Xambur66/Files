@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
 #EXTINF:0 ,France.tv
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
-#EXTINF:0 ,France 5
+#EXTINF:-1 tvg-id="France5.fr@SD",France 5
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:0 ,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
