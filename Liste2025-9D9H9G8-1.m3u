@@ -122,7 +122,7 @@ https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS CHiCAGO
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
-#EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS BOSTON
+#EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS NEWS BOSTON
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS PHiLADELPHiA
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
