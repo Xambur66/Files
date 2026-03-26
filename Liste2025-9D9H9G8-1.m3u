@@ -293,7 +293,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 ,TRACE LATiNA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:0 ,Stingray Classica
+#EXTINF:-1 ,Stingray Classica
+#EXTVLCOPT:
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.vf=GGD_2svUCi4
 #EXTINF:0 ,Qwest TV Jazz and Beyond
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
