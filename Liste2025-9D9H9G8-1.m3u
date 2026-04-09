@@ -136,7 +136,7 @@ https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:0 ,ACCUWEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
-#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance (1080p)
+#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 ,Schwab Network
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
@@ -149,7 +149,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?ads.xumo_ch
 #EXTINF:0 ,GB NEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="-----GENEL HABER-----" tvg-id="euronews.al" tvg-name="Eleven Sports 1" ,EURONEWS
-https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8
 #EXTINF:0 ,FRANCE 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="-----GENEL HABER-----" ,DW
