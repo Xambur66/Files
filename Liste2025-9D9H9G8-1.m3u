@@ -30,8 +30,7 @@ https://c61b2ba70ab24f2db8ab29ca267cd6a4.mediatailor.us-east-1.amazonaws.com/v1/
 https://77360d19fc27463bbcebed85a6aa6c00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-dk_LifeDownUnder/playlist.m3u8
 #EXTINF:0 ,GoUSA TV
 https://db257ce47b7c4eb88829ad36574738a5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_GoUSATV/playlist.m3u8
-#EXTINF:0 ,TAHITI TV
-https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+
 #EXTINF:0 ,Go Wild
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.csid=lgchannels_[COUNTRY]_indigeniusgowild_ssai&ads.ad_tag_id=16821&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:0 ,Bon Appétit
@@ -138,8 +137,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
 #EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 ,Schwab Network
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="-----GENEL HABER-----" ,UN TV
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/format/applehttp/protocol/https/uiConfId/43914941/a.m3u8
 #EXTINF:0 ,BBC NEWS
@@ -210,10 +208,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" ,Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 ,NHK NEWS
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0 ,NHK WORLD
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
 #EXTINF:0 group-title="-----ASYA-----" tvg-id="CGTN.es" tvg-name="CGTN Español" parent-code="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8" ,CGTN
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8?ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="arirang.ru" tvg-name="Arirang" ,ARIRANG
@@ -221,10 +218,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 group-title="-----SPOR-----" ,RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0 ,Sky Sports F1 UHD
-https://a1xs.vip/2000016
-#EXTINF:0 ,Sky Sports F1 FHD
-https://a1xs.vip/2000005
+
 #EXTINF:0 ,beIN SPORTS XTRA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
 #EXTINF:0 ,FUEL TV
@@ -233,20 +227,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/play
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvnz-samsungnz/playliist.m3u8
 #EXTINF:0 ,WORLD OF FREESPORTS - WOF
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?ads_amagi_channel=837&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4372&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=c61ce8fa-4c9c-4d17-a716-ccbd2c1a643e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0 group-title="-----SPOR-----" ,HORiZONSPORTS
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+
 #EXTINF:-1 tvg-id="",FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:0 ,ESPN2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
 #EXTINF:0 ,NBC SPORTS
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
 #EXTINF:0 ,FUBO SPORTS
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.nonce=[NONCE]
 #EXTINF:0 ,ACCDN
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 ,Big Ten Network
-http://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
 #EXTINF:0 ,NBA TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=fa5a096b-5e50-4d59-97b0-06d284f61b42&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:0 ,NFL Channel
@@ -255,8 +246,7 @@ https://c300.play.lura.app/play/v1/live/WZLF7alakBQFSwod957XVA/master.m3u8?ts=17
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 ,TEAM USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 ,MARQUEE SPORTS NETWORK
-https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:0 ,SPEEDVISION
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 #EXTINF:0 group-title="-----SPOR-----" ,MOTORVISION.TV
@@ -275,8 +265,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderushd-
 https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:0 group-title="-----SPOR-----" ,TRACE SPORTSTARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 ,CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
 #EXTINF:0 ,VEVO POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="",XITE Nuevo Latino
@@ -287,8 +276,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 ,TRACE LATiNA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca@SD",Stingray Classica
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.vf=GGD_2svUCi4
+
 #EXTINF:0 ,Qwest TV Jazz and Beyond
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 ,CLUBBiNG TV
