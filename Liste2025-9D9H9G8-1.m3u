@@ -218,8 +218,7 @@ https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8?ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="arirang.ru" tvg-name="Arirang" ,ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="-----ASYA-----" ,CNN iNDONESiA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="-----SPOR-----" ,RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0 ,Sky Sports F1 UHD
