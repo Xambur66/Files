@@ -160,8 +160,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:0 ,RT HD
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0 ,i24News
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8
+#EXTINF:0 ,i24 NEWS EN
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 ,PRESSTV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:0 ,ABC NEWS
@@ -191,9 +191,11 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 #EXTINF:0 ,BFM BUSINESS
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 #EXTINF:0 ,TF1
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:0 ,LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:0 ,FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTINF:0 ,franceinfo:
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:0 ,France.tv
@@ -206,6 +208,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:0 ,TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:0 ,MONACO INFO
+https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:0 group-title="-----AFRİKA-----" ,Africanews EN
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzU3YjE5ZWUtYjJhYS00ZjY1LWI2NjctNzVkMWEwYTllYjRmIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjoyfQ==/26036/africanews-en.m3u8
 #EXTINF:0 ,SABC News
@@ -223,7 +227,8 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8?ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="arirang.ru" tvg-name="Arirang" ,ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
+#EXTINF:0 ,TELESUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="-----SPOR-----" ,RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -278,6 +283,8 @@ https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 #EXTINF:0 group-title="-----SPOR-----" ,TRACE SPORTSTARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:0 ,CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 ,VEVO POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="",XITE Nuevo Latino
@@ -288,11 +295,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 ,TRACE LATiNA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-
-#EXTINF:0 ,Qwest TV Jazz and Beyond
+#EXTINF:0 ,Qwest Jazz
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 ,CLUBBiNG TV
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:0 ,CLASSICA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:0 ,FashionTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:0 ,Global Fashion Channel
