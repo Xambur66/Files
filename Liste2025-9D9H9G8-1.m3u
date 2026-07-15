@@ -12,6 +12,8 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://wildearth-lg.amagi.tv/playlist.m3u8
 #EXTINF:0 ,XPLORE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:0 ,Invitation au voyage
+https://jmp2.uk/stvp-FR3700004HZ
 #EXTINF:0 ,DRONE TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.channel_ext_id=627bff101985ad459d0e3c22&ads.wurl_name=DroneTV&ads.device_type=&ads.content_genre=Technology&ads.device_model=&ads.content_id=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.wurl_channel=1072&ads.ifa_type=&ads.dnt=&ads.app_bundle=&ads.cust_devicename=&ads.app_store_url=&ads.content_title=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.ip=181.215.195.227&ads.did=&ads.coppa=0&ads.app_name=&ads.device_make=&ads.content_provider=drone-tv&ads.channel_corp=Air%20Vuz%20LLC&ads.channel_brand_id=AMDB012798&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.channel_company_id=AMDP500408&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 #EXTINF:0 ,LOVE NATURE
@@ -39,7 +41,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 ,TASTEMADE
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:0 ,Air & Space
+#EXTINF:0 ,Wingspan Air & Space Channel
 https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
 #EXTINF:0 ,SPACE LIVE
 https://jmp2.uk/stvp-AT800002IP
@@ -172,8 +174,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 #EXTINF:0 ,TV5 Monde VOYAGE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
-#EXTINF:0 ,TV5 Monde INFO
+#EXTINF:0 ,TV5 MONDE+ Chefs
+https://jmp2.uk/stvp-FR1300003HM
+#EXTINF:0 ,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 ,TV5 Monde Info
+https://jmp2.uk/stvp-FR1800005X0
 #EXTINF:0 ,BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:0 ,BFM 2
@@ -189,7 +195,7 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf
 #EXTINF:0 ,LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:0 ,franceinfo:
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:0 ,France.tv
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 #EXTINF:-1 tvg-id="France5.fr@SD",France 5
