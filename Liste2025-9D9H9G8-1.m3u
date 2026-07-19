@@ -222,7 +222,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" ,Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 ,NHK WORLD
+#EXTINF:0 ,NHK WORLD JAPAN
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:0 group-title="-----ASYA-----" tvg-id="CGTN.es" tvg-name="CGTN Español" parent-code="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8" ,CGTN
