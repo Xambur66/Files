@@ -79,6 +79,8 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 group-title="-----AMERİKA-----" tvg-id="ABC.us" tvg-name="ABC" ,ABC NEWS Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:0 ,NOW NEWS
+https://nowushls.wns.live/hls/stream.m3u8
 #EXTINF:0 ,NEWSMAX TV
 https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 #EXTINF:0 ,NEWSMAX2
@@ -139,7 +141,7 @@ https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:0 ,ACCUWEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
-#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance
+#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo!Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="-----GENEL HABER-----" ,UN TV
@@ -160,12 +162,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:0 ,RT HD
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0 ,i24 NEWS EN
+#EXTINF:0 ,i24 NEWS
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 ,PRESSTV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:0 ,NOW NEWS USA
-https://nowushls.wns.live/hls/stream.m3u8
+
 #EXTINF:0 ,ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:0 ,NEWSWORLD
@@ -178,7 +179,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 #EXTINF:0 ,TV5 MONDE+ Chefs
 https://jmp2.uk/stvp-FR1300003HM
-#EXTINF:0 ,TV5 Monde
+#EXTINF:0 ,TV5 Monde EUROPE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 ,TV5 Monde Info
 https://jmp2.uk/stvp-FR1800005X0
@@ -188,31 +189,26 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_servi
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
 #EXTINF:0 ,BFM Nice Côte d'Azur
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:0 ,BFM Tech & Co
+#EXTINF:0 ,Tech&Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:0 ,BFM BUSINESS
+#EXTINF:0 ,BFM BUSiNESS
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 #EXTINF:0 ,TF1
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
-#EXTINF:0 ,LCI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:0 ,FRANCE LA 1ÈRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTINF:0 ,franceinfo:
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
-#EXTINF:0 ,France.tv
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
-#EXTINF:-1 tvg-id="France5.fr@SD",France 5
-http://69.64.57.208/france5/mono.m3u8
+
 #EXTINF:0 ,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 ,M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
 #EXTINF:0 ,TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:0 ,MONACO iNFO
+#EXTINF:0 ,MONACOiNFO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:0 group-title="-----AFRİKA-----" ,Africanews.
+#EXTINF:0 group-title="-----AFRİKA-----" ,Africanews
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzU3YjE5ZWUtYjJhYS00ZjY1LWI2NjctNzVkMWEwYTllYjRmIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjoyfQ==/26036/africanews-en.m3u8
 #EXTINF:0 ,SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
