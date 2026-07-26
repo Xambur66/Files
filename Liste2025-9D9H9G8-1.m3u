@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 ,ZENLife By Stingray
+#EXTINF:0 ,ZENLIFE By Stingray
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.xumo_streamId=99992099&ads.channelId=99992099&ads.ad_tag_id=36042&ads.csid=lgchannels_us_stingrayzenlife_ssai&ads.channelName=stingrayzenlife_us&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.xumo_providerName=StingrayZenlifeUS&ads.xumo_providerId=3975&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:0 ,Stingray Holidayscapes
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD",Stingray Naturescape
+#EXTINF:0 ,Stingray Naturescape
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu
-#EXTINF:0 ,NATUREVision
+#EXTINF:0 ,NATURE VISION
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
 #EXTINF:0 ,WiLDEARTH
 https://wildearth-lg.amagi.tv/playlist.m3u8
@@ -13,7 +13,7 @@ https://wildearth-lg.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:0 ,Invitation au voyage
 https://jmp2.uk/stvp-FR3700004HZ
-#EXTINF:0 ,arte
+#EXTINF:0 ,arte.tv
 http://145.239.5.177/300/index.m3u8
 #EXTINF:0 ,DRONE TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.channel_ext_id=627bff101985ad459d0e3c22&ads.wurl_name=DroneTV&ads.device_type=&ads.content_genre=Technology&ads.device_model=&ads.content_id=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.wurl_channel=1072&ads.ifa_type=&ads.dnt=&ads.app_bundle=&ads.cust_devicename=&ads.app_store_url=&ads.content_title=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.ip=181.215.195.227&ads.did=&ads.coppa=0&ads.app_name=&ads.device_make=&ads.content_provider=drone-tv&ads.channel_corp=Air%20Vuz%20LLC&ads.channel_brand_id=AMDB012798&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.channel_company_id=AMDP500408&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
@@ -42,7 +42,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 ,TASTEMADE
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:0 ,Wingspan Air & Space Channel
+#EXTINF:0 ,Wingspan Air Space Channel
 https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
 #EXTINF:0 ,SPACE LIVE
 https://jmp2.uk/stvp-AT800002IP
@@ -124,16 +124,11 @@ https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8?imafw
 https://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS NEWS BOSTON
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
-#EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS PHiLADELPHiA
-https://dai.google.com/linear/hls/pa/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS MiNNESOTA
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS SACRAMENTO
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS TEXAS
 https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8
-#EXTINF:0 group-title="-----AMERİKA-----" ,CBS NEWS PiTTSBURGH
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
 #EXTINF:0 group-title="-----AMERİKA-----" ,TYT NETWORK
 https://jmp2.uk/rok-ee70e4ad68b55abb88e7b95b8940566a.m3u8
 #EXTINF:0 group-title="-----AMERİKA-----" tvg-id="CBCNews.ca" tvg-name="CBC News Network HD" ,CBC NEWS
@@ -142,7 +137,7 @@ https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:0 ,ACCUWEATHER NOW
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
-#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo!Finance
+#EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="-----GENEL HABER-----" ,UN TV
@@ -240,7 +235,7 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8?ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="arirang.ru" tvg-name="Arirang" ,ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 ,TELESUR
+#EXTINF:0 ,TELESUR HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="-----SPOR-----" ,RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -270,7 +265,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_c
 https://c300.play.lura.app/play/v1/live/WZLF7alakBQFSwod957XVA/master.m3u8?ts=1706118973909&app=hY5YgA1ANpnKf-eBLDzMpA&exp=2336838974&auth=-1ONpOzf1t9agH-2jan30hUkPqL1XvLabel6jlet9PQ&PlatformChild=%7BPLATFORM_CHILD%7D&usprivacy=%7BUS_PRIVACY%7D&rdp=%7BCPPA%7D&coppa=(TAG-FOR-CHILD-DIRECT-BOOLEAN)&encoder=DC1-TCL&rdid=%7BDEVICE_ID%7D&islat=%7BDNT%7D&screenw=%7BDEVICE_WIDTH%7D&screenh=%7BDEVICE_HEIGHT%7D
 #EXTINF:0 ,NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 ,TEAM USA
+#EXTINF:0 ,TEAM USA TV
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,SPEEDVISION
@@ -293,7 +288,7 @@ https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 ,FIFA+
 https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:0 group-title="-----SPOR-----" ,TRACE SPORTSTARS
+#EXTINF:0 group-title="-----SPOR-----" ,TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,CSTAR
@@ -312,9 +307,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/pl
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0 ,MEZZO LIVE
 http://45.84.187.172:3001/udp/239.10.10.76:5000
-#EXTINF:0 ,Qwest Jazz
+#EXTINF:0 ,Qwest Playlists
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 ,CLASSICA
+#EXTINF:0 ,STINGRAY CLASSICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:0 ,FashionTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
