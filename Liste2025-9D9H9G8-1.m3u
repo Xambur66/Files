@@ -4,7 +4,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999209
 #EXTINF:0 ,Stingray Holidayscapes
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD",Stingray Naturescape
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8?ads.vf=KV9HuIoiFAu
 #EXTINF:0 ,NATUREVision
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
@@ -14,6 +13,8 @@ https://wildearth-lg.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:0 ,Invitation au voyage
 https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:0 ,arte
+http://145.239.5.177/300/index.m3u8
 #EXTINF:0 ,DRONE TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.channel_ext_id=627bff101985ad459d0e3c22&ads.wurl_name=DroneTV&ads.device_type=&ads.content_genre=Technology&ads.device_model=&ads.content_id=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.wurl_channel=1072&ads.ifa_type=&ads.dnt=&ads.app_bundle=&ads.cust_devicename=&ads.app_store_url=&ads.content_title=5B906B36-29CB-441B-ADCD-921E22A67BDD&ads.ip=181.215.195.227&ads.did=&ads.coppa=0&ads.app_name=&ads.device_make=&ads.content_provider=drone-tv&ads.channel_corp=Air%20Vuz%20LLC&ads.channel_brand_id=AMDB012798&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.channel_company_id=AMDP500408&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 #EXTINF:0 ,LOVE NATURE
@@ -216,6 +217,9 @@ https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:0 ,MONACOiNFO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
+#EXTINF:0 ,Monte Carlo Digital Television
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+
 #EXTINF:0 group-title="-----AFRİKA-----" ,Africa News
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzU3YjE5ZWUtYjJhYS00ZjY1LWI2NjctNzVkMWEwYTllYjRmIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjoyfQ==/26036/africanews-en.m3u8
 #EXTINF:0 ,SABC News
@@ -290,7 +294,7 @@ https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+http://145.239.5.177/361/index.m3u8
 #EXTINF:0 ,VEVO POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="",XITE Nuevo Latino
@@ -301,6 +305,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 ,TRACE LATiNA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:0 ,MEZZO
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0 ,Qwest Jazz
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 ,CLASSICA
