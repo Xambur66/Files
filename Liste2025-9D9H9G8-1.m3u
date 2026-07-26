@@ -42,9 +42,9 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 ,TASTEMADE
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:0 ,Wingspan Air Space Channel
+#EXTINF:0 ,Air Space Channel
 https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
-#EXTINF:0 ,SPACE LIVE
+#EXTINF:0 ,SPACE LiVE
 https://jmp2.uk/stvp-AT800002IP
 #EXTINF:0 ,Popular Science
 https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/acTVe-powder-ono/playlist.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n4=content_name&ads.v4=Popular%20Science&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=ip&ads.v22=181.215.195.227&ads.n23=device_model&ads.v23=&ads.n24=content_producer_name&ads.v24=acTVe%20Action%20Sports%2C%20LLC&ads.n25=channel_name&ads.v25=Popular%20Science&ads.n26=content_provider&ads.v26=powder&ads.n27=channel_language&ads.v27=English&ads.n28=ifa_type&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=channel_id&ads.v32=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n33=h&ads.v33=1080&ads.n34=content_custom_3_param&ads.v34=channel&ads.n35=channel_genre&ads.v35=Documentary%2CScience&ads.n36=w&ads.v36=1920&ads.n37=device_type&ads.v37=&ads.n38=content_livestream&ads.v38=1&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=app_bundle&ads.v40=&ads.n41=did&ads.v41=&ads.n42=app_version&ads.v42=0.0.0&ads.n43=cust_devicename&ads.v43=desktop_web&ads.n44=channel_brand_id&ads.v44=AMDB013424&ads.n45=app_name&ads.v45=&ads.n46=network_name&ads.v46=powder&ads.n47=app_store_url&ads.v47=&ads.n48=channel_corp&ads.v48=acTVe%20Action%20Sports%2C%20LLC&ads.n49=dnt&ads.v49=&ads.n50=channel_ext_id&ads.v50=&ads.n51=content_custom_1_param&ads.v51=11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF&ads.n52=content_type&ads.v52=channel&ads.n53=device_make&ads.v53=&ads.n54=channel_title&ads.v54=Popular%20Science&ads.n55=content_custom_2_param&ads.v55=AMDB013424&ads.n56=channel_company_id&ads.v56=AMDP500526
@@ -52,7 +52,7 @@ https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgdk/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED
 #EXTINF:0 ,WELLBEiNG TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0 ,ET Live
+#EXTINF:0 ,ET
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:0 ,60 Minutes
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https:%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fnrb-l85CR7SIr-rGXqz4zA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
@@ -67,7 +67,7 @@ https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:0 ,MSNOW
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:0 ,CNNi
 https://jmp2.uk/stvp-GBBD1900008O3
 #EXTINF:0 ,CNBC
