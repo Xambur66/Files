@@ -223,6 +223,8 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
 #EXTINF:0 group-title="-----AFRİKA-----" ,Africa News
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzU3YjE5ZWUtYjJhYS00ZjY1LWI2NjctNzVkMWEwYTllYjRmIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjoyfQ==/26036/africanews-en.m3u8
+#EXTINF:0 ,Africa 24 English
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:0 ,SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 #EXTINF:0 ,WION
@@ -308,6 +310,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:0 ,MEZZO
 https://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:0 ,MEZZO LIVE
+http://45.84.187.172:3001/udp/239.10.10.76:5000
 #EXTINF:0 ,Qwest Jazz
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 ,CLASSICA
