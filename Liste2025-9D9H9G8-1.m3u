@@ -209,7 +209,7 @@ http://145.239.5.177/305/index.m3u8
 
 #EXTINF:0 ,TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:0 ,MONACOiNFO
+#EXTINF:0 ,MONACO iNFO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:0 ,Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
