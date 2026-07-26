@@ -216,7 +216,12 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
 #EXTINF:0 ,TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
-
+#EXTINF:0 ,TVE 24 H
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
+#EXTINF:0 ,TVE LA 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
+#EXTINF:0 ,TVE LA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1 group-title="-----ASYA-----" ,NDTV 24x7
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
