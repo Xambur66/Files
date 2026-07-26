@@ -175,6 +175,17 @@ https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
 #EXTINF:0 ,Sky News Now
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+#EXTINF:0 ,TF1
+https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
+#EXTINF:0 ,CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:0 ,franceinfo:
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
+#EXTINF:0 ,FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
+
+
 #EXTINF:0 ,BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:0 ,BFM 2
@@ -186,23 +197,16 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:0 ,BFM Tech&Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:0 ,TF1
-https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
-#EXTINF:0 ,CNews
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:0 ,franceinfo:
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 
-#EXTINF:0 ,FRANCE LA 1ÈRE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
+
+#EXTINF:0 ,TV5 Monde FBS
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 ,TV5 Monde Info
+https://jmp2.uk/stvp-FR1800005X0
 #EXTINF:0 ,TV5 Monde VOYAGE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 #EXTINF:0 ,TV5 MONDE+ Chefs
 https://jmp2.uk/stvp-FR1300003HM
-#EXTINF:0 ,TV5 Monde EUROPE
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 ,TV5 Monde Info
-https://jmp2.uk/stvp-FR1800005X0
 
 #EXTINF:0 ,M6
 https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
@@ -220,7 +224,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" ,Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 ,NHK WORLD JAPAN
+#EXTINF:0 ,NHK NEWS
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:0 group-title="-----ASYA-----" tvg-id="CGTN.es" tvg-name="CGTN Español" parent-code="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8" ,CGTN
