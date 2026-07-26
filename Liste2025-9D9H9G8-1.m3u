@@ -179,10 +179,6 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 ,franceinfo:
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
-#EXTINF:0 ,FRANCE LA 1ÈRE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
-#EXTINF:0 ,FRANCE5
-http://145.239.5.177/305/index.m3u8
 
 #EXTINF:0 ,BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
@@ -206,8 +202,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 #EXTINF:0 ,TV5 MONDE+ Chefs
 https://jmp2.uk/stvp-FR1300003HM
 
-#EXTINF:0 ,M6
-https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
+#EXTINF:0 ,FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
+#EXTINF:0 ,FRANCE5
+http://145.239.5.177/305/index.m3u8
+
 #EXTINF:0 ,TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:0 ,MONACOiNFO
@@ -294,6 +293,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,CSTAR
 http://145.239.5.177/361/index.m3u8
+#EXTINF:0 ,M6
+https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
+
 #EXTINF:0 ,VEVO POP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="",XITE Nuevo Latino
