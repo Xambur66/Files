@@ -214,6 +214,10 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:0 ,Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
+#EXTINF:0 ,TVE INTERNACIONAL
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
+
+
 #EXTINF:-1 group-title="-----ASYA-----" ,NDTV 24x7
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="channelnewsasia" tvg-name="Channel NewsAsia" ,Channel News Asia (CNA)
