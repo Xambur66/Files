@@ -178,6 +178,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 
 #EXTINF:0 ,TF1
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
+#EXTINF:0 ,LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:0 ,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 ,franceinfo:
