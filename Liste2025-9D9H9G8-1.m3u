@@ -175,7 +175,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:0 ,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:0 ,LCi
+#EXTINF:0 ,LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:0 ,franceinfo:
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
@@ -214,7 +214,7 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:0 ,Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
-#EXTINF:0 ,TVE iNTERNACiONAL
+#EXTINF:0 ,TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 #EXTINF:0 ,TVE 24H
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
