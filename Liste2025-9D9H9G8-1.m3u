@@ -231,7 +231,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:0 group-title="-----ASYA-----" tvg-id="CGTN.es" tvg-name="CGTN Español" parent-code="https://news.cgtn.com/resource/live/english/cgtn-news.m3u8" ,CGTN
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8?ads.islive=1&ads.streamtype=live&ads.vf=20241020
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="-----ASYA-----" tvg-id="arirang.ru" tvg-name="Arirang" ,ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 ,TELESUR
