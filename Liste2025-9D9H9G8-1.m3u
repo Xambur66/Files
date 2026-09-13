@@ -299,12 +299,12 @@ https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,C STAR
-http://145.239.5.177/361/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 ,M6
 https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
 
 #EXTINF:0 ,VEVO POP
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 #EXTINF:0 ,TRACE URBAN
